@@ -1,6 +1,10 @@
 let db;
+const indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB || window.msIndexedDB;
+
 // create a new db request for a "budget" database.
 const request = indexedDB.open("budget", 1);
+
+
 
 request.onupgradeneeded = function(event) {
    // create object store called "pending" and set autoIncrement to true
