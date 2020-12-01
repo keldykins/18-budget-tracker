@@ -4,13 +4,9 @@
 
 Budget Tracker is a PWA used to keep track of ones income and spending whether online or offline. Save and retrieve data without an internet connection, and have it update your info upon connecting.
 
-## Installation
-
-Open Budget Tracker folder in terminal and install using `npm install`, and `npm start`
-
 ## Usage
 
-Enter expenditures, enter income. Watch the graph rise and fall as it keeps track of your money.
+Open server.js in terminal, 'npm i', 'npm start' to open app in localhost: 3000.
 
 ## Contact
 
@@ -27,3 +23,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Screenshots
+
+<img width="1249" alt="Screen Shot 2020-12-01 at 12 33 32 PM" src="https://user-images.githubusercontent.com/66789135/100787970-aab37080-33d1-11eb-80ed-b2611ab9a4a6.png">
