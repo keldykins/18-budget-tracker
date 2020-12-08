@@ -6,7 +6,7 @@ Budget Tracker is a PWA used to keep track of ones income and spending whether o
 
 ## Usage
 
-Open server.js in terminal, 'npm i', 'npm start' to open app in localhost: 3000.
+https://keldanbudgettracker.herokuapp.com/
 
 ## Contact
 
